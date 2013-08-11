@@ -1,3 +1,8 @@
+/** OJ 2948 Martian Mining
+	DP Problem
+	http://poj.org/problem?id=2948
+*/
+
 #include <cstdio>
 //#include <algorithm>
 #define max(a,b) ((a) > (b) ? (a) : (b)) 
